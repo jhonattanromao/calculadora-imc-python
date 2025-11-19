@@ -4,10 +4,10 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/jhonattanromao/calculadora-imc-python?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/jhonattanromao/calculadora-imc-python?style=for-the-badge)
 
-<p>No segundo semestre da faculdade precisei realizar o desenvolvimento de uma calculadora de IMC para um trabalho da disciplina de Linguagens de Programação.
+No segundo semestre da faculdade precisei realizar o desenvolvimento de uma calculadora de IMC para um trabalho da disciplina de Linguagens de Programação.
 
-Decidi compartilhar este projeto pois foi extremamente importante para o meu desenvolvimento. Foram abordados alguns conceitos importantes como funções, estruturas condicionais, laços de repetição, cálculos matemáticos etc.</p>
-<hr>
+Decidi compartilhar este projeto pois foi extremamente importante para o meu desenvolvimento. Foram abordados alguns conceitos importantes como funções, estruturas condicionais, laços de repetição, cálculos matemáticos etc.
+***
 
 ### 💻  Desenvolvimento
 
@@ -27,13 +27,13 @@ Como referência, a tabela abaixo foi adotada para exibir a classificação do I
 | Entre 25,0 e 29,9     | Sobrepeso          |
 | Entre 30,0 e 39,9     | Obesidade          |
 | Maior que 40,0        | Obesidade Grave    |
-<hr>
+***
 
 ### 🧩  Dependências/Requisitos
 
 - Requer apenas Python 3.x; Nenhuma biblioteca externa.
 
-<hr>
+***
 
 ### ▶️ Como Executar
 
@@ -45,13 +45,13 @@ Como referência, a tabela abaixo foi adotada para exibir a classificação do I
 # python app.py
 ```
 
-<hr>
+***
 
 ### 🔧  Linguagens e Ferramentas
 
-<p>
+
 Essas foram as linguagens e ferramentas utilizadas para desenvolvimento do projeto por completo.
-</p>
+
 <img 
     align="left" 
     alt="Python" 
@@ -68,7 +68,8 @@ Essas foram as linguagens e ferramentas utilizadas para desenvolvimento do proje
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" 
 /><br><br><br>
-<hr>
+
+***
 
 ### 📝 Licença
 
