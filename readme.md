@@ -13,7 +13,7 @@ Decidi compartilhar este projeto pois foi extremamente importante para o meu des
 
 O App foi desenvolvido 100% em Python para ser executado via cmd localmente. Nenhuma biblioteca adicional foi necessária.
 
-A formula utilizada para cálculo do IMC (Índice de Massa Corpórea) foi a seguinte:
+A formula utilizada para cálculo do IMC (Índice de Massa Corporal) foi a seguinte:
 
 `IMC = peso / (altura²)`
 
